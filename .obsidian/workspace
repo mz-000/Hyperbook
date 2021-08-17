@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "1f33bad11a105beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e8777a0b233595",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "• Hyperbook/Hyperbook.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ce82c309bb1f4531",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "754b026ed3d838c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a4a022bc12bcda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a42a92ee722776d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31aa1d1dc3c0633c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Chapter",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432
+  },
+  "right": {
+    "id": "7979ef7b5d9090d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6693e43589bcd007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20456c9b3237bb11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "• Hyperbook/Hyperbook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "491374d79ab1e96b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "• Hyperbook/Hyperbook.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "88e8777a0b233595",
+  "lastOpenFiles": [
+    "• Hyperbook/Hyperbook.md",
+    "Laws/Reed.md",
+    "Laws/Laws.md",
+    "Sources/Books/The Information.md",
+    "Sources/Ideas/Quotes.md",
+    "Laws/Zappa.md",
+    "Laws/Shirky.md",
+    "Sources/Interview/Interview.md",
+    "Laws/Zimmerman.md",
+    "• Hyperbook/What is Technology?.md"
+  ]
+}
